@@ -15,8 +15,23 @@ Estudante do <b>NÍVEL MÉDIO<b>, curso de Sistemas informáticos no <a class="n
 •  Executar diagnósticos para descobrir falhas e resolver problemas (reparar ou substituir componentes).<br>
 •  Manter registros/históricos de reparos e correções e programações de manutenção. <br>
 •  Identificar insuficiências de equipamentos de computadores ou redes e realizar os pedidos necessários. <br>
-
-
+•	Habilidade  e gosto de aprender coisas novas.<br>
+•	Admiração por cybersecurity.<br>
+•	Conhecimento elevado da língua inglesa.<br>
+  <hr>
+  
+   🧰 Ferramentas (linguagens)
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Logotipo de JavaScript" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Logotipo de HTML5" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Logotipo da MYSQL" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Logotipo de SQL Server" width="50" height="50"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Logotipo da linguagem C#" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Logotipo da linguagem Java" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Logotipo da PHP" width="50" height="50">
+<hr>
+ 📺 Curso recente visto:
+  https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq
+  
+ 📺 Curso por ver brevemente:
+https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I
+  <hr>
+  Recentemente estagiando.
+ 
 
 
 <!--
