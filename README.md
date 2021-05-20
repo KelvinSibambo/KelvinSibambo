@@ -18,6 +18,7 @@ Estudante do <b>NÍVEL MÉDIO<b>, curso de Sistemas informáticos no <a class="n
 •	Habilidade  e gosto de aprender coisas novas.<br>
 •	Admiração por cybersecurity.<br>
 •	Conhecimento elevado da língua inglesa.<br>
+•	Baixo conhecimento da linguagem java(devido a falta de prática).
   <hr>
   
    🧰 Ferramentas (linguagens)
