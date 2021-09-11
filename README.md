@@ -1,7 +1,7 @@
 ### Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  Meu nome é Kelvin Sibambo
 
 
-
+<b> Links 75% operacionais </b>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KelvinSibambo?label=Siga-me%20no%20Twitter&style=social"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCM-2C18PTZ09ucBosRLj4Tw?label=Subscreva%20no%20meu%20canal%21&style=social">
 <hr>
 Estudante do <b>NÍVEL MÉDIO<b>, curso de Sistemas informáticos no <a class="nav-link" href:"itc.ac.mz"> Instituto de Transportes e comunicações</a> com seguintes habilidades:
