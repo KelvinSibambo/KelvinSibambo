@@ -18,7 +18,7 @@ Técnico de Sistemas informáticos,<b>NÍVEL MÉDIO<b> feito no <a class="nav-li
 •	 Habilidade  e gosto de aprender coisas novas.<br>
 •	 Admiração por cybersecurity.<br>
 •	 Conhecimento elevado da língua inglesa.<br>
-•  linguagem java(devido a falta de prática).
+•  Estudando linguagem java.
   <hr>
   
    🧰 Ferramentas (linguagens)
@@ -26,12 +26,12 @@ Técnico de Sistemas informáticos,<b>NÍVEL MÉDIO<b> feito no <a class="nav-li
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Logotipo de JavaScript" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Logotipo de HTML5" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Logotipo da MYSQL" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Logotipo de SQL Server" width="50" height="50"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Logotipo da linguagem C#" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Logotipo da linguagem Java" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Logotipo da PHP" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Logotipo da Bootstrap" width="50px" height="50px">
 <hr>
  📺 Curso recente visto:
-  https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq
+  https://youtube.com/playlist?list=PL9p_J5fD742H7i5-vPSy0Bg12ceVRYs6-
   
  📺 Curso por ver brevemente:
 https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I
   <hr>
-  Recentemente estagiando.
+  Licenciatura em Engenharia informática
   <hr>
   Criador do website :
   https://kelvinlewis3.wixsite.com/aecateringservicos
