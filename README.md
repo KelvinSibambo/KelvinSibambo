@@ -4,7 +4,7 @@
 <b> Links 75% operacionais </b>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KelvinSibambo?label=Siga-me%20no%20Twitter&style=social"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCM-2C18PTZ09ucBosRLj4Tw?label=Subscreva%20no%20meu%20canal%21&style=social">
 <hr>
-Estudante do <b>NÍVEL MÉDIO<b>, curso de Sistemas informáticos no <a class="nav-link" href:"itc.ac.mz"> Instituto de Transportes e comunicações</a> com seguintes habilidades:
+Técnico de Sistemas informáticos,<b>NÍVEL MÉDIO<b> feito no <a class="nav-link" href:"itc.ac.mz"> Instituto de Transportes e comunicações</a> com seguintes habilidades:
 
 •  Configurar estações de trabalho com computadores e dispositivos periféricos necessários (roteadores, impressoras etc.) <br>
 •  Verificar hardwares de computador (HDD, mouses, teclados etc.) para assegurar funcionalidade. <br>
@@ -15,10 +15,10 @@ Estudante do <b>NÍVEL MÉDIO<b>, curso de Sistemas informáticos no <a class="n
 •  Executar diagnósticos para descobrir falhas e resolver problemas (reparar ou substituir componentes).<br>
 •  Manter registros/históricos de reparos e correções e programações de manutenção. <br>
 •  Identificar insuficiências de equipamentos de computadores ou redes e realizar os pedidos necessários. <br>
-•	Habilidade  e gosto de aprender coisas novas.<br>
-•	Admiração por cybersecurity.<br>
-•	Conhecimento elevado da língua inglesa.<br>
-•	Baixo conhecimento da linguagem java(devido a falta de prática).
+•	 Habilidade  e gosto de aprender coisas novas.<br>
+•	 Admiração por cybersecurity.<br>
+•	 Conhecimento elevado da língua inglesa.<br>
+•  linguagem java(devido a falta de prática).
   <hr>
   
    🧰 Ferramentas (linguagens)
